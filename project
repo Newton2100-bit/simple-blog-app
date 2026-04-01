@@ -1,0 +1,11 @@
+========================
+PROJECT STRUCTURE
+=========================
+gateway/
+server.js
+user-service/
+server.js
+routes/user.js
+blog-service/
+server.js
+routes/blog.js
